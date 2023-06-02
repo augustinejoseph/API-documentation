@@ -23,8 +23,14 @@ Similarly, in software development, an API acts as an intermediary that enables 
 
 APIs are commonly used in web development, allowing different applications, systems, or services to interact with each other over the internet. For example, social media platforms often provide APIs that allow developers to integrate their applications with the platform, retrieve user data, post updates, and perform various actions on behalf of users.
 
-```bash
-"An API, or Application Programming Interface, is a set of rules and protocols that allows different software applications to communicate and interact with each other, enabling developers to access and utilize the functionalities or services provided by another software component in a standardized way.”
+```none
+"An API, or Application Programming Interface, 
+is a set of rules and protocols that allows 
+different software applications to communicate 
+and interact with each other, enabling developers 
+to access and utilize the functionalities or 
+services provided by another software component 
+in a standardized way.”
 ```
 
 ### **In an API, the set of rules and protocols typically include the following elements:**
@@ -37,7 +43,8 @@ APIs are commonly used in web development, allowing different applications, syst
 6. Response Format: APIs also specify the format in which responses are returned. This includes the structure of the data, status codes (such as 200 for successful requests or 404 for not found), and any error messages or additional metadata.
 
 There are different types of APIs like REST (Representational State Transfer), SOAP (Simple Object Access Protocol), and others.
-[Great Article of REST API](https://document360.com/blog/what-is-rest-api/)
+
+[**Great Article of REST API**](https://document360.com/blog/what-is-rest-api/)
 
 ### **What is API Documentation?**
 
@@ -75,6 +82,9 @@ There are numerous tools out there to make writing API documentation easier.
 ### **References for further reading**
 
 [How to Write API Documentation with Examples](https://document360.com/blog/api-documentation/) -  document360
+
 https://stoplight.io/api-documentation-guide - spotlight
+
 [The 8 Best API Documentation Examples for 2023](https://blog.dreamfactory.com/8-api-documentation-examples/) - DreamFactory
+
 [5 Examples of Excellent API Documentation](https://nordicapis.com/5-examples-of-excellent-api-documentation/) - Nordicapis
